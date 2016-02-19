@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cost_category">[{\"name\":\"加油\",\"icon\":\"cost_refu\",\"type\":1},{\"name\":\"普通维修\",\"icon\":\"cost_fix\",\"type\":2},{\"name\":\"事故维修\",\"icon\":\"cost_inci\",\"type\":3},{\"name\":\"保养\",\"icon\":\"cost_maint\",\"type\":4},{\"name\":\"过路费\",\"icon\":\"cost_toll\",\"type\":5},{\"name\":\"洗车\",\"icon\":\"cost_wash\",\"type\":6},{\"name\":\"罚单\",\"icon\":\"cost_tick\",\"type\":7},{\"name\":\"保险\",\"icon\":\"cost_insu\",\"type\":8},{\"name\":\"停车\",\"icon\":\"cost_park\",\"type\":9},{\"name\":\"其它\",\"icon\":\"cost_other\",\"type\":10}]</string>
+</resources>

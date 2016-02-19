@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">爱车生活</string>
+    <string name="main_menu_text_cost">花费</string>
+    <string name="main_menu_text_options">更多</string>
+</resources>
